@@ -28,7 +28,7 @@
   "dependencies": {
     "debug": "^4",
     "tarn": "^1.1.4",
-    "tedious": "^6.1.0"
+    "tedious": "git://github.com/arkady-zelensky/tedious.git#2e730716e5e2953ddaab7a960df3e8d93d56d025"
   },
   "devDependencies": {
     "mocha": "^6.1.4",
